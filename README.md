@@ -29,7 +29,7 @@ In this part of the project, the numbers of confirmed cases by each region of po
  ![55](https://github.com/isasilva3/Epidemiologia/blob/master/Images/Uk_new_confirmed_cases_trendline.png)
  ![1](https://github.com/isasilva3/Epidemiologia/blob/master/Images/Uk_confirmed_trendline.png)
  
-### [Prevision for the next 30 days]
+### [Prevision for the next 30 days](https://github.com/isasilva3/Epidemiologia/blob/master/United%20Kingdom%20Study/Previsions.ipynb)
 
 ![p](https://github.com/isasilva3/Epidemiologia/blob/master/Images/Prevision%20for%20the%20next%2030%20days.png)
 
