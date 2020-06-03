@@ -32,12 +32,14 @@ In this part of the project, the numbers of confirmed cases by each region of po
  
 
 ## World Wide
-### [France Evolution](https://github.com/isasilva3/Epidemiologia/blob/master/World%20Wide/France_Evolution.ipynb)
+
+### Maps
+#### [France Evolution](https://github.com/isasilva3/Epidemiologia/blob/master/World%20Wide/France_Evolution.ipynb)
 * Bar Chart of the confirmed cases and deaths througout time:
 
 ![bar](https://github.com/isasilva3/Epidemiologia/blob/master/Images/FranceEvolution.png)
 
-### [World Wide Evolution](https://nbviewer.jupyter.org/github/isasilva3/Epidemiologia/blob/master/World%20Wide/Maps%20and%20Time%20series%20plots.ipynb)
+#### [World Wide Evolution](https://nbviewer.jupyter.org/github/isasilva3/Epidemiologia/blob/master/World%20Wide/Maps%20and%20Time%20series%20plots.ipynb)
 * World map with cases per million inhabitants by country:
 
 ![i](https://github.com/isasilva3/Epidemiologia/blob/master/Images/WWCases.png)
