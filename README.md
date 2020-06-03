@@ -72,4 +72,6 @@ In this part of the project, the numbers of confirmed cases by each region of po
 
 ![80](https://github.com/isasilva3/Epidemiologia/blob/master/Images/Countries%20doing%20best%20regarding%20confirmed%20cases%20vs.%20Deaths.png)
 
+## [Other exercices](https://github.com/isasilva3/Epidemiologia/tree/master/Exercices)
+In addition to these studies in the Exercises folder is the resolution of some exercises proposed during the classes.
 
