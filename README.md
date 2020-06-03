@@ -36,7 +36,7 @@ In this part of the project, the numbers of confirmed cases by each region of po
 
  ![0](https://github.com/isasilva3/Epidemiologia/blob/master/Images/UK_Map.png)
 
-### [Pie Chart]
+### [Pie Chart](https://github.com/isasilva3/Epidemiologia/blob/master/United%20Kingdom%20Study/PieChart_TotalCases.ipynb)
 
 * Number of total cases by country:
 
