@@ -8,8 +8,8 @@ In this part of the project, the numbers of confirmed cases by each region of po
  * Pie Charts:
  
  ![Pie](https://github.com/isasilva3/Epidemiologia/blob/master/Images/pieportugal.png)
-![Concelhos](https://github.com/isasilva3/Epidemiologia/blob/master/Images/Concelhos_Portugal.png)
-
+ ![Concelhos](https://github.com/isasilva3/Epidemiologia/blob/master/Images/Concelhos_Portugal.png)
+ ![BarCharts](https://github.com/isasilva3/Epidemiologia/blob/master/Images/barchartportugal.png)
 
 ## United Kingdom
 
