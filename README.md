@@ -26,7 +26,7 @@ In this part of the project, the numbers of confirmed cases by each region of po
  ![44](https://github.com/isasilva3/Epidemiologia/blob/master/Images/Uk_new_recoveries_bar.png)
  ![2](https://github.com/isasilva3/Epidemiologia/blob/master/Images/Uk_confirmed_cases_stacked_bar.png)
 
-###[Trend Lines](https://github.com/isasilva3/Epidemiologia/blob/master/United%20Kingdom%20Study/Bar%20Charts%20and%20Trend%20Lines.ipynb):
+### [Trend Lines](https://github.com/isasilva3/Epidemiologia/blob/master/United%20Kingdom%20Study/Bar%20Charts%20and%20Trend%20Lines.ipynb):
  ![55](https://github.com/isasilva3/Epidemiologia/blob/master/Images/Uk_new_confirmed_cases_trendline.png)
  ![1](https://github.com/isasilva3/Epidemiologia/blob/master/Images/Uk_confirmed_trendline.png)
  
