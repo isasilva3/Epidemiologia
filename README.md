@@ -30,6 +30,9 @@ In this part of the project, the numbers of confirmed cases by each region of po
  ![55](https://github.com/isasilva3/Epidemiologia/blob/master/Images/Uk_new_confirmed_cases_trendline.png)
  ![1](https://github.com/isasilva3/Epidemiologia/blob/master/Images/Uk_confirmed_trendline.png)
  
+### [Prevision for the next 30 days]
+
+![p](https://github.com/isasilva3/Epidemiologia/blob/master/Images/Prevision%20for%20the%20next%2030%20days.png)
 
 ## World Wide
 
@@ -52,6 +55,22 @@ In this part of the project, the numbers of confirmed cases by each region of po
 
 ![y](https://github.com/isasilva3/Epidemiologia/blob/master/Images/WWBubble1.png)
 
+### Time series plots
+* Confirmed cases of the most affected countries:
 
+![t](https://github.com/isasilva3/Epidemiologia/blob/master/Images/confirmed%20cases%20of%20countries%20with%20most%20confirmed%20cases.png)
+
+* Deaths of countries with most victims:
+
+![o](https://github.com/isasilva3/Epidemiologia/blob/master/Images/deaths%20of%20countries%20with%20most%20victims.png)
+
+### Confirmed cases vs. Deaths
+* Countries that have the worst ratio of deaths relative to the number of confirmed cases:
+
+![9](https://github.com/isasilva3/Epidemiologia/blob/master/Images/Countries%20with%20worst%20ratio%20confirmed%20cases%20vs.%20Deaths.png)
+
+* Countries that are doing the best when looking at the relation between the number of deaths and the number of confirmed cases:
+
+![80](https://github.com/isasilva3/Epidemiologia/blob/master/Images/Countries%20doing%20best%20regarding%20confirmed%20cases%20vs.%20Deaths.png)
 
 
