@@ -4,7 +4,7 @@ This project contains studies relative to the evolution of COVID-19 in the entir
 
 ## Notebooks
 
-Notebooks that were developed throughout the project:
+Notebooks developed throughout the project:
 
 🗂️ [Confirmed Cases in Portugal](https://github.com/isasilva3/Epidemiologia/blob/master/Portugal/Concelhos%20Portugal.ipynb)
 
@@ -38,7 +38,7 @@ In this part of the project, the numbers of confirmed cases by each region of po
 
 ### [Pie Chart](https://github.com/isasilva3/Epidemiologia/blob/master/United%20Kingdom%20Study/PieChart_TotalCases.ipynb)
 
-* Number of total cases by country:
+* Number of total cases by nation:
 
 ![eng](https://github.com/isasilva3/Epidemiologia/blob/master/Images/UKpie.png)
 
