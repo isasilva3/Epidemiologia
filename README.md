@@ -9,9 +9,26 @@ In this part of the project, the numbers of confirmed cases by each region of po
  
  ![Pie](https://github.com/isasilva3/Epidemiologia/blob/master/Images/pieportugal.png)
  ![Concelhos](https://github.com/isasilva3/Epidemiologia/blob/master/Images/Concelhos_Portugal.png)
+ 
+ * Bar Chart:
+ 
  ![BarCharts](https://github.com/isasilva3/Epidemiologia/blob/master/Images/barchartportugal.png)
 
 ## United Kingdom
+### [UK Map with confirmed cases](https://github.com/isasilva3/Epidemiologia/blob/master/United%20Kingdom%20Study/Confirmed%20Cases%20Interactive%20Map.ipynb):
 
+ ![0](https://github.com/isasilva3/Epidemiologia/blob/master/Images/UK_Map.png)
+ 
+* Bar Charts:
+ ![11](https://github.com/isasilva3/Epidemiologia/blob/master/Images/Uk_currently_infected_bar.png)
+ ![22](https://github.com/isasilva3/Epidemiologia/blob/master/Images/Uk_new_confirmed_cases_bar.png)
+ ![33](https://github.com/isasilva3/Epidemiologia/blob/master/Images/Uk_new_deaths_bar.png)
+ ![44](https://github.com/isasilva3/Epidemiologia/blob/master/Images/Uk_new_recoveries_bar.png)
+ ![2](https://github.com/isasilva3/Epidemiologia/blob/master/Images/Uk_confirmed_cases_stacked_bar.png)
+
+* Trend Lines
+ ![55](https://github.com/isasilva3/Epidemiologia/blob/master/Images/Uk_new_confirmed_cases_trendline.png)
+ ![1](https://github.com/isasilva3/Epidemiologia/blob/master/Images/Uk_confirmed_trendline.png)
+ 
 
 ## World Wide
