@@ -1,6 +1,24 @@
 # Epidemiologia
  
-This project contains some studies relative to the evolution of COVID-19 in the entire world, in United Kingdom in particular and Portugal. Some complentary exercices were made related to QGIS, PyQGIS nad SQL.
+This project contains studies relative to the evolution of COVID-19 in the entire world, in United Kingdom in particular and Portugal. Some complentary exercices were made related to QGIS, PyQGIS nad SQL.
+
+## Notebooks
+
+Notebooks that were developed throughout the project:
+
+🗂️ [Confirmed Cases in Portugal](https://github.com/isasilva3/Epidemiologia/blob/master/Portugal/Concelhos%20Portugal.ipynb)
+
+🗂️ [UK Confirmed Cases Map](https://github.com/isasilva3/Epidemiologia/blob/master/United%20Kingdom%20Study/Confirmed%20Cases%20Interactive%20Map.ipynb)
+
+🗂️ [UK Bar Charts and Trend Lines](https://github.com/isasilva3/Epidemiologia/blob/master/United%20Kingdom%20Study/Bar%20Charts%20and%20Trend%20Lines.ipynb)
+
+🗂️ [UK Pie Chart](https://github.com/isasilva3/Epidemiologia/blob/master/United%20Kingdom%20Study/PieChart_TotalCases.ipynb)
+
+🗂️ [UK Previsions](https://github.com/isasilva3/Epidemiologia/blob/master/United%20Kingdom%20Study/Previsions.ipynb)
+
+🗂️ [France Covid Evolution](https://github.com/isasilva3/Epidemiologia/blob/master/World%20Wide/France_Evolution.ipynb)
+
+🗂️ [World Wide Evolution](https://nbviewer.jupyter.org/github/isasilva3/Epidemiologia/blob/master/World%20Wide/Maps%20and%20Time%20series%20plots.ipynb#Deaths-of-countries-with-most-victims)
 
 ## Portugal
 ### [Concelhos Portugal](https://github.com/isasilva3/Epidemiologia/blob/master/Portugal/Concelhos%20Portugal.ipynb):
