@@ -1,6 +1,6 @@
 # Epidemiologia
  
-This project contains studies relative to the evolution of COVID-19 in the entire world, in United Kingdom in particular and Portugal. Some complentary exercices were made related to QGIS, PyQGIS nad SQL.
+This project contains studies relative to the evolution of COVID-19 in the entire world, in United Kingdom in particular, and Portugal. Some complentary exercices were made related to QGIS, PyQGIS nad SQL.
 
 ## Notebooks
 
@@ -35,7 +35,14 @@ In this part of the project, the numbers of confirmed cases by each region of po
 ### [UK Map with confirmed cases](https://github.com/isasilva3/Epidemiologia/blob/master/United%20Kingdom%20Study/Confirmed%20Cases%20Interactive%20Map.ipynb):
 
  ![0](https://github.com/isasilva3/Epidemiologia/blob/master/Images/UK_Map.png)
- 
+
+### [Pie Chart]
+
+* Number of total cases by country:
+
+![eng](https://github.com/isasilva3/Epidemiologia/blob/master/Images/UKpie.png)
+
+
 ### [Bar Charts](https://github.com/isasilva3/Epidemiologia/blob/master/United%20Kingdom%20Study/Bar%20Charts%20and%20Trend%20Lines.ipynb):
  ![11](https://github.com/isasilva3/Epidemiologia/blob/master/Images/Uk_currently_infected_bar.png)
  ![22](https://github.com/isasilva3/Epidemiologia/blob/master/Images/Uk_new_confirmed_cases_bar.png)
