@@ -38,3 +38,18 @@ In this part of the project, the numbers of confirmed cases by each region of po
 ![bar](https://github.com/isasilva3/Epidemiologia/blob/master/Images/FranceEvolution.png)
 
 ### [World Wide Evolution](https://nbviewer.jupyter.org/github/isasilva3/Epidemiologia/blob/master/World%20Wide/Maps%20and%20Time%20series%20plots.ipynb)
+* World map with cases per million inhabitants by country:
+
+![i](https://github.com/isasilva3/Epidemiologia/blob/master/Images/WWCases.png)
+
+* World map with cases per million inhabitants by country:
+
+![e](https://github.com/isasilva3/Epidemiologia/blob/master/Images/WWDeaths.png)
+
+* World bubble map with confirmed cases by province/state:
+
+![y](https://github.com/isasilva3/Epidemiologia/blob/master/Images/WWBubble1.png)
+
+
+
+
