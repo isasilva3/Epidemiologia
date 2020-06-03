@@ -114,3 +114,6 @@ In this part of the project, the numbers of confirmed cases by each region of po
 ## [Other exercices](https://github.com/isasilva3/Epidemiologia/tree/master/Exercices)
 In addition to these studies in the Exercises folder is the resolution of some exercises proposed during the classes.
 
+## Author:
+Isabel Silva (A80246)
+
