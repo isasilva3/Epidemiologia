@@ -5,8 +5,8 @@ This project contains some studies relative to the evolution of COVID-19 in the 
 ## Portugal
 ### [Concelhos Portugal](https://github.com/isasilva3/Epidemiologia/blob/master/Portugal/Concelhos%20Portugal.ipynb):
 In this part of the project, the numbers of confirmed cases by each region of portugal were analyzed. 
- *Pie Charts:
- (https://github.com/isasilva3/Epidemiologia/blob/master/Images/pieportugal.png)
+ * Pie Charts:
+ ![Pie](https://github.com/isasilva3/Epidemiologia/blob/master/Images/pieportugal.png)
 
 
 ## United Kingdom
