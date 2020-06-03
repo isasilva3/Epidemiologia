@@ -19,7 +19,7 @@ In this part of the project, the numbers of confirmed cases by each region of po
 
  ![0](https://github.com/isasilva3/Epidemiologia/blob/master/Images/UK_Map.png)
  
-###[Bar Charts](https://github.com/isasilva3/Epidemiologia/blob/master/United%20Kingdom%20Study/Bar%20Charts%20and%20Trend%20Lines.ipynb):
+### [Bar Charts](https://github.com/isasilva3/Epidemiologia/blob/master/United%20Kingdom%20Study/Bar%20Charts%20and%20Trend%20Lines.ipynb):
  ![11](https://github.com/isasilva3/Epidemiologia/blob/master/Images/Uk_currently_infected_bar.png)
  ![22](https://github.com/isasilva3/Epidemiologia/blob/master/Images/Uk_new_confirmed_cases_bar.png)
  ![33](https://github.com/isasilva3/Epidemiologia/blob/master/Images/Uk_new_deaths_bar.png)
