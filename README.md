@@ -55,14 +55,14 @@ In this part of the project, the numbers of confirmed cases by each region of po
 
 ### [Trend Lines](https://github.com/isasilva3/Epidemiologia/blob/master/United%20Kingdom%20Study/Bar%20Charts%20and%20Trend%20Lines.ipynb):
 
-* The following charts represent a daily trendline with the new confirmed cases, new deaths and new recoveries of UK.
+* The following charts represent a daily trend line with the new confirmed cases, new deaths and new recoveries of UK.
 
  ![55](https://github.com/isasilva3/Epidemiologia/blob/master/Images/Uk_new_confirmed_cases_trendline.png)
  ![1](https://github.com/isasilva3/Epidemiologia/blob/master/Images/Uk_confirmed_trendline.png)
  
 ### [Prevision for the next 30 days](https://github.com/isasilva3/Epidemiologia/blob/master/United%20Kingdom%20Study/Previsions.ipynb)
  
- A 30-day forecast was made in relation to the future confirmed new cases.
+ A 30-day forecast was made in relation to predict future confirmed new cases.
  
 * Gaussian Curve for New Cases:
 
