@@ -1,6 +1,24 @@
 # Epidemiologia
  
-This project contains some studies relative to the evolution of COVID-19 in the entire world, in United Kingdom in particular and Portugal. Some complentary exercices were made related to QGIS, PyQGIS nad SQL.
+This project contains studies relative to the evolution of COVID-19 in the entire world, in United Kingdom in particular, and Portugal. Some complentary exercices were made related to QGIS, PyQGIS nad SQL.
+
+## Notebooks
+
+Notebooks that were developed throughout the project:
+
+🗂️ [Confirmed Cases in Portugal](https://github.com/isasilva3/Epidemiologia/blob/master/Portugal/Concelhos%20Portugal.ipynb)
+
+🗂️ [UK Confirmed Cases Map](https://github.com/isasilva3/Epidemiologia/blob/master/United%20Kingdom%20Study/Confirmed%20Cases%20Interactive%20Map.ipynb)
+
+🗂️ [UK Bar Charts and Trend Lines](https://github.com/isasilva3/Epidemiologia/blob/master/United%20Kingdom%20Study/Bar%20Charts%20and%20Trend%20Lines.ipynb)
+
+🗂️ [UK Pie Chart](https://github.com/isasilva3/Epidemiologia/blob/master/United%20Kingdom%20Study/PieChart_TotalCases.ipynb)
+
+🗂️ [UK Previsions](https://github.com/isasilva3/Epidemiologia/blob/master/United%20Kingdom%20Study/Previsions.ipynb)
+
+🗂️ [France Covid Evolution](https://github.com/isasilva3/Epidemiologia/blob/master/World%20Wide/France_Evolution.ipynb)
+
+🗂️ [World Wide Evolution](https://nbviewer.jupyter.org/github/isasilva3/Epidemiologia/blob/master/World%20Wide/Maps%20and%20Time%20series%20plots.ipynb#Deaths-of-countries-with-most-victims)
 
 ## Portugal
 ### [Concelhos Portugal](https://github.com/isasilva3/Epidemiologia/blob/master/Portugal/Concelhos%20Portugal.ipynb):
@@ -17,8 +35,18 @@ In this part of the project, the numbers of confirmed cases by each region of po
 ### [UK Map with confirmed cases](https://github.com/isasilva3/Epidemiologia/blob/master/United%20Kingdom%20Study/Confirmed%20Cases%20Interactive%20Map.ipynb):
 
  ![0](https://github.com/isasilva3/Epidemiologia/blob/master/Images/UK_Map.png)
- 
+
+### [Pie Chart](https://github.com/isasilva3/Epidemiologia/blob/master/United%20Kingdom%20Study/PieChart_TotalCases.ipynb)
+
+* Number of total cases by country:
+
+![eng](https://github.com/isasilva3/Epidemiologia/blob/master/Images/UKpie.png)
+
+
 ### [Bar Charts](https://github.com/isasilva3/Epidemiologia/blob/master/United%20Kingdom%20Study/Bar%20Charts%20and%20Trend%20Lines.ipynb):
+
+* Throughout the following charts it is possible to analise the new confirmed cases, new deaths, new recoveries and curretly infected cases. 
+
  ![11](https://github.com/isasilva3/Epidemiologia/blob/master/Images/Uk_currently_infected_bar.png)
  ![22](https://github.com/isasilva3/Epidemiologia/blob/master/Images/Uk_new_confirmed_cases_bar.png)
  ![33](https://github.com/isasilva3/Epidemiologia/blob/master/Images/Uk_new_deaths_bar.png)
@@ -26,10 +54,21 @@ In this part of the project, the numbers of confirmed cases by each region of po
  ![2](https://github.com/isasilva3/Epidemiologia/blob/master/Images/Uk_confirmed_cases_stacked_bar.png)
 
 ### [Trend Lines](https://github.com/isasilva3/Epidemiologia/blob/master/United%20Kingdom%20Study/Bar%20Charts%20and%20Trend%20Lines.ipynb):
+
+* The following charts represent a daily trendline with the new confirmed cases, new deaths and new recoveries of UK.
+
  ![55](https://github.com/isasilva3/Epidemiologia/blob/master/Images/Uk_new_confirmed_cases_trendline.png)
  ![1](https://github.com/isasilva3/Epidemiologia/blob/master/Images/Uk_confirmed_trendline.png)
  
 ### [Prevision for the next 30 days](https://github.com/isasilva3/Epidemiologia/blob/master/United%20Kingdom%20Study/Previsions.ipynb)
+ 
+ A 30-day forecast was made in relation to the future confirmed new cases.
+ 
+* Gaussian Curve for New Cases:
+
+![gauss](https://github.com/isasilva3/Epidemiologia/blob/master/United%20Kingdom%20Study/Images/Curva_Gauss.jpg)
+
+* 30-day forecast: 
 
 ![p](https://github.com/isasilva3/Epidemiologia/blob/master/Images/Prevision%20for%20the%20next%2030%20days.png)
 
@@ -46,7 +85,7 @@ In this part of the project, the numbers of confirmed cases by each region of po
 
 ![i](https://github.com/isasilva3/Epidemiologia/blob/master/Images/WWCases.png)
 
-* World map with cases per million inhabitants by country:
+* World map with deaths per million inhabitants by country:
 
 ![e](https://github.com/isasilva3/Epidemiologia/blob/master/Images/WWDeaths.png)
 
@@ -59,7 +98,7 @@ In this part of the project, the numbers of confirmed cases by each region of po
 
 ![t](https://github.com/isasilva3/Epidemiologia/blob/master/Images/confirmed%20cases%20of%20countries%20with%20most%20confirmed%20cases.png)
 
-* Deaths of countries with most victims:
+* Deaths of the countries that are presented with the highest number of victims:
 
 ![o](https://github.com/isasilva3/Epidemiologia/blob/master/Images/deaths%20of%20countries%20with%20most%20victims.png)
 
@@ -74,4 +113,7 @@ In this part of the project, the numbers of confirmed cases by each region of po
 
 ## [Other exercices](https://github.com/isasilva3/Epidemiologia/tree/master/Exercices)
 In addition to these studies in the Exercises folder is the resolution of some exercises proposed during the classes.
+
+## Author:
+Isabel Silva (A80246)
 
