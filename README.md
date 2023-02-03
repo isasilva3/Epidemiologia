@@ -1,6 +1,6 @@
 # Epidemiologia
  
-This project contains studies relative to the evolution of COVID-19 in the entire world, in United Kingdom in particular, and Portugal. Some complentary exercices were made related to QGIS, PyQGIS nad SQL.
+This project contains studies relative to the evolution of COVID-19 in the entire world, in United Kingdom in particular, and Portugal. Some complentary exercices were made related to QGIS, PyQGIS and SQL.
 
 ## Notebooks
 
